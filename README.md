@@ -3,7 +3,6 @@
 - 🎓 Bacharel em sistemas de informação
 - 👨‍💻 Trabalhando atualmente com Java, Spring e Quarkus (back end e front end). 
 - ✉ Contate me no e-mail murilo.nsantos17@hotmail.com 
-- 📱 Para falar mais rápido deixo meu telefone (41) - 99585-3913 
 - 📘 Aprendendo JavaScript 
 
 <div align="center">
@@ -26,7 +25,7 @@
   
 <div style="display: inline_block"> <br>
   
-  <a href="api.whatsapp.com/send?phone=5541995853913" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5541995853913" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
   
