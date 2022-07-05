@@ -1,7 +1,8 @@
 ## Olá meu nome é Murilo Santos, desenvolvedor Java JR, atualmente estudando desenvolvimento web e mobile.
 
+- 🎓 Pós Graduação em Desenvolvimento Web
 - 🎓 Bacharel em sistemas de informação
-- 👨‍💻 Trabalhando atualmente com Java, Spring e Quarkus (back end e front end). 
+- 👨‍💻 Trabalhando atualmente com Java Script, HTML5, CSS3, Bootstrap, Java, Spring e Quarkus (back end e front end). 
 - ✉ Contate me no e-mail murilo.nsantos17@hotmail.com 
 - 📘 Aprendendo JavaScript 
 
