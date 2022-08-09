@@ -1,4 +1,4 @@
-## Olá meu nome é Murilo Santos, desenvolvedor Java JR, atualmente estudando desenvolvimento web e mobile.
+## Olá meu nome é Murilo Santos, desenvolvedor fullstack pleno, atualmente estudando desenvolvimento web e mobile.
 
 - 🎓 Pós Graduação em Desenvolvimento Web
 - 🎓 Bacharel em sistemas de informação
