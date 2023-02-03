@@ -2,9 +2,9 @@
 
 - 🎓 Pós Graduação em Desenvolvimento Web
 - 🎓 Bacharel em sistemas de informação
-- 👨‍💻 Trabalhando atualmente com Java Script, HTML5, CSS3, Bootstrap, Java, Spring e Quarkus (back end e front end). 
+- 👨‍💻 Trabalhando atualmente com Java Script, React, NodeJS, HTML5, CSS3, Bootstrap, Java, Spring e Quarkus (back end e front end). 
 - ✉ Contate me no e-mail murilo.nsantos17@hotmail.com 
-- 📘 Aprendendo JavaScript 
+- 📘 Aprendendo JavaScript, React, TypeScript 
 
 <div align="center">
   <a href="https://github.com/MuriloNSantos17">
