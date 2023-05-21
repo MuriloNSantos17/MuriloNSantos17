@@ -156,7 +156,7 @@ header{
     font-size: 1.7rem;
 }
 
-.about-title span, .services span{
+.about-title span, .heading span{
     border-bottom: 3px solid var(--main-color);
 }
 
@@ -252,4 +252,11 @@ header{
     background: #fff;
     color: var(--text-color);
     transition: 0.2s;
+}
+
+.portfolio-container{
+    display: grid;
+    grid-template-columns:repeat(auto-fit,minmax(17rem,1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
 }
