@@ -13,4 +13,35 @@
 
 :root{
     --main-color: #0b178f;
+    --text-color: #1c2844;
 }
+
+img{
+    width: 100%;
+}
+
+body{
+    color: var(--text-color);
+}
+
+::selection{
+    color: #fff;
+    background-color: var(--main-color);
+}
+
+
+/* Custom scroll bar*/
+
+html::-webkit-scrollbar{
+    width: 0.5rem;
+}
+
+html::-webkit-scrollbar-track{
+    background: transparent;
+}
+
+html::-webkit-scrollbar-thumb{
+    background: var(--main-color);
+    border-radius: 5rem;
+}
+
