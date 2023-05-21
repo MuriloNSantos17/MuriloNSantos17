@@ -260,3 +260,63 @@ header{
     gap: 1.5rem;
     margin-top: 2rem;
 }
+
+.portfolio-container .box{
+    position: relative;
+    height: 220px;
+    box-shadow: 10px 11px 11px rgb(14 55 54 /15%);
+    overflow: hidden;
+    border-radius: 0.5rem;
+}
+
+.portfolio-container .box .box-img{
+    width: 100%;
+    height: 100%;
+}
+
+.portfolio-container .box .box-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.portfolio-container .box .content{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    top: -100%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: rgb(28,40,68,0.8);
+}
+
+.portfolio-container .box .content .bx{
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 4px;
+    background: #fff;
+    color: var(--text-color);
+}
+
+.portfolio-container .box .content h3{
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 10px;
+}
+
+.portfolio-container .box:hover .content{
+    top: 0;
+    transition: 0.2s;
+}
+
+.copyright{
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    background: var(--text-color);
+}
