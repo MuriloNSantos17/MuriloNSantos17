@@ -19,7 +19,7 @@
 
 
 section{
-    padding: 70px 10%;
+    padding: 50px 10%;
 }
 
 img{
@@ -103,4 +103,103 @@ header{
     grid-template-columns:repeat(auto-fit,minmax(17rem,1fr));
     align-items: center;
     gap: 1.5rem;
+}
+
+.home-text h1{
+    font-size: 3.4rem;
+    color: var(--main-color);
+}
+
+.home-text h2{
+    font-size: 1.6rem;
+    font-weight: bolder;
+}
+
+.home-text p{
+    font-weight: 400;
+    margin: 0.7rem 0 1rem;
+}
+
+.home-img{
+    padding: 40px;
+}
+
+.btn{
+    display: inline-block;
+    background: var(--text-color);
+    padding: 0.8rem 2rem;
+    color: #fff;
+    font-weight: 500;
+}
+
+.btn:hover{
+    background: var(--main-color);
+    letter-spacing: 2px;
+    transition: 0.2s;
+}
+
+.about{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(17rem, 1fr));
+    gap: 1.5rem;
+}
+
+.about-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.about-title h1{
+    color: var(--main-color);
+    font-size: 1.7rem;
+}
+
+.about-title span{
+    border-bottom: 3px solid var(--main-color);
+}
+
+.about-title h2{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.about-img{
+    width: 150px;
+    height: 150px;
+    margin-top: 2rem;
+}
+
+.about-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    background: var(--main-color);
+}
+
+.social{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.social a .bx{
+    margin-right: 1rem;
+    font-size: 24px;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    background: var(--text-color);
+}
+
+.social a .bx:hover{
+    background-color: var(--main-color);
+}
+
+.about-text p{
+    text-align: justify;
+    margin-bottom: 1rem;
 }
