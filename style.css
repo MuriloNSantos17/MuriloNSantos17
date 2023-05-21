@@ -11,9 +11,15 @@
     font-family: 'Poppins', sans-serif;
 }
 
+
 :root{
     --main-color: #0b178f;
     --text-color: #1c2844;
+}
+
+
+section{
+    padding: 50px 10%;
 }
 
 img{
@@ -87,4 +93,14 @@ header{
     cursor: pointer;
     z-index: 10001;
     display: none;
+}
+
+.home{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns:repeat(auto-fit,minmax(17rem,1fr));
+    align-items: center;
+    gap: 1.5rem;
 }
