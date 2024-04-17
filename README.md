@@ -1,4 +1,4 @@
-## Olá meu nome é Murilo Santos, desenvolvedor fullstack Sênior, atualmente estudando desenvolvimento web (ReactJs) e mobile (Flutter).
+## Olá meu nome é Murilo Santos, desenvolvedor fullstack Sênior, atualmente estudando desenvolvimento web (ReactTs) e mobile (Flutter).
 
 - 🎓 Pós Graduação em Desenvolvimento Web
 - 🎓 Bacharel em sistemas de informação
