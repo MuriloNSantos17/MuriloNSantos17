@@ -6,7 +6,7 @@
 - ✉ Contate me no e-mail murilo.nsantos17@hotmail.com 
 - 📘 Aprendendo JavaScript, React, TypeScript 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/MuriloNSantos17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloNSantos17&layout=compact&langs_count=7&theme=dracula"/>
 </div>
