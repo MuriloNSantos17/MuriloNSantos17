@@ -66,7 +66,8 @@ function generatePortfolio(imgSrc, href, nameSite){
 }
 
 generatePortfolio('images/p12.PNG','https://rogeriodias.com.br/','Rogério Dias')
-generatePortfolio('images/p5.PNG','https://murilonsantos17.github.io/Coffee-Web-Shop/','Loy Moda Feminina')
+generatePortfolio('images/p14.jpg','https://cap100.com.br/','CAP 100')
+generatePortfolio('images/p5.PNG','https://dioniziofotodrone.com.br/','Dionizio Foto Drone')
 generatePortfolio('images/p9.PNG','https://ksturismo.com.br/','KS Turismo')
 generatePortfolio('images/p13.PNG','https://mgoxidos.com.br/','MG Óxidos')
 generatePortfolio('images/p2.PNG','https://www.lojabolachasvovoelza.com.br/','Loja Bolachas Vovó Elza')

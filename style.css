@@ -258,14 +258,18 @@ header.shadow{
     transition: 0.2s;
 }
 
-.portfolio-container{
+.portfolio-container, .certificado-container{
     display: grid;
     grid-template-columns:repeat(auto-fit,minmax(17rem,1fr));
     gap: 1.5rem;
     margin-top: 2rem;
 }
 
-.portfolio-container .box{
+.text-center{
+    text-align: center
+}
+
+.portfolio-container .box, .certificado-container .box{
     position: relative;
     height: 220px;
     box-shadow: 10px 11px 11px rgb(14 55 54 /15%);
@@ -273,18 +277,18 @@ header.shadow{
     border-radius: 0.5rem;
 }
 
-.portfolio-container .box .box-img{
+.portfolio-container .box .box-img, .certificado-container .box .box-img{
     width: 100%;
     height: 100%;
 }
 
-.portfolio-container .box .box-img img{
+.portfolio-container .box .box-img img, .certificado-container .box .box-img img{
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
 
-.portfolio-container .box .content{
+.portfolio-container .box .content, .certificado-container .box .content{
     position: absolute;
     display: flex;
     flex-direction: column;
@@ -298,7 +302,7 @@ header.shadow{
     background: rgb(28,40,68,0.8);
 }
 
-.portfolio-container .box .content .bx{
+.portfolio-container .box .content .bx, .certificado-container .box .content .bx{
     padding: 10px;
     font-size: 24px;
     border-radius: 4px;
@@ -306,14 +310,14 @@ header.shadow{
     color: var(--text-color);
 }
 
-.portfolio-container .box .content h3{
+.portfolio-container .box .content h3, .certificado-container .box .content h3{
     color: #fff;
     font-size: 1.1rem;
     font-weight: 600;
     margin: 10px;
 }
 
-.portfolio-container .box:hover .content{
+.portfolio-container .box:hover .content, .certificado-container .box:hover .content{
     top: 0;
     transition: 0.2s;
 }
