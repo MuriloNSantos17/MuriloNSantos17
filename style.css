@@ -382,8 +382,16 @@ header.shadow{
         box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
     }
 
+    .navbar li{
+        display: none;
+    }
+
     .navbar.active{
         top: 100%;
+    }
+
+    .navbar.active li{
+        display: block;
     }
 
     .navbar a{
