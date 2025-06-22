@@ -65,6 +65,8 @@ function generatePortfolio(imgSrc, href, nameSite){
     divPortfolio.append(divBox);
 }
 
+generatePortfolio('images/p16.jpg','https://hidromais.eco.br/','Hidromais')
+generatePortfolio('images/p15.jpg','https://akaueferramentas.com.br/','Akauê Ferramentas')
 generatePortfolio('images/p12.PNG','https://rogeriodias.com.br/','Rogério Dias')
 generatePortfolio('images/p14.jpg','https://cap100.com.br/','CAP 100')
 generatePortfolio('images/p5.PNG','https://dioniziofotodrone.com.br/','Dionizio Foto Drone')
