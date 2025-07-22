@@ -1,4 +1,4 @@
-## Olá meu nome é Murilo Santos, desenvolvedor fullstack Sênior, atualmente estudando desenvolvimento web (ReactTs) e mobile (Flutter).
+## Olá meu nome é Murilo Santos 🚀
 
 - 🎓 Pós Graduação em Desenvolvimento Web
 - 🎓 Bacharel em sistemas de informação
@@ -10,6 +10,8 @@
   <a href="https://github.com/MuriloNSantos17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloNSantos17&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<img src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg" />
   
 ### Tecnologias
 <div style="display: inline_block"><br>  
@@ -30,6 +32,8 @@
 </div>  
   
 ##
+
+
   
 <div style="display: inline_block"> <br>
   
