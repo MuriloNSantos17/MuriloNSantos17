@@ -3,7 +3,7 @@
 - 🔁 Pós Graduação em Inteligência Artificial
 - 🎓 Pós Graduação em Desenvolvimento Web
 - 🎓 Bacharel em sistemas de informação
-- 👨‍💻 Trabalhando atualmente com Type Script, React, Node, HTML5, TailWind, Vite, Java, Spring e Quarkus (back end e front end). 
+- 👨‍💻 Trabalhando atualmente com Type Script, React, Node, HTML5, Tailwind, Vite, Java, Spring e Quarkus (back end e front end). 
 - ✉ Contate me no e-mail murilo.nsantos17@hotmail.com 
 - 📘 Aprendendo Python e Docker
 
