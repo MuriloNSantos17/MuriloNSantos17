@@ -11,7 +11,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,docker"/>
 
 ### Frameworks e Bibliotecas
-<img src="https://skillicons.dev/icons?i=react,spring,nextjs,redux,flutter"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring,nextjs,redux,flutter"/>
 
 ### Banco de Dados
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma"/>
