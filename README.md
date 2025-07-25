@@ -1,10 +1,11 @@
 ## Olá meu nome é Murilo Santos 🚀
 
+- 🔁 Pós Graduação em Inteligência Artificial
 - 🎓 Pós Graduação em Desenvolvimento Web
 - 🎓 Bacharel em sistemas de informação
 - 👨‍💻 Trabalhando atualmente com Java Script, React, NodeJS, HTML5, CSS3, Bootstrap, Java, Spring e Quarkus (back end e front end). 
 - ✉ Contate me no e-mail murilo.nsantos17@hotmail.com 
-- 📘 Aprendendo JavaScript, React, TypeScript 
+- 📘 Aprendendo Python e Docker 
 
 <div align="left">
   <a href="https://github.com/MuriloNSantos17">
