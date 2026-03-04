@@ -65,6 +65,7 @@ function generatePortfolio(imgSrc, href, nameSite){
     divPortfolio.append(divBox);
 }
 
+generatePortfolio('images/p17.PNG','https://andradesociedade.adv.br/','ANDRADE SOCIEDADE')
 generatePortfolio('images/p16.jpg','https://hidromais.eco.br/','Hidromais')
 generatePortfolio('images/p15.jpg','https://akaueferramentas.com.br/','Akauê Ferramentas')
 generatePortfolio('images/p12.PNG','https://rogeriodias.com.br/','Rogério Dias')
