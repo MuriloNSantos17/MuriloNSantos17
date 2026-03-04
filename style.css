@@ -487,6 +487,12 @@ header.shadow{
   .my-float {
     margin-top: 16px;
   }
+
+  .copyright{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
   
   .copyright a{
     color: #FFF;
